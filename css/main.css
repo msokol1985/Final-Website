@@ -1,0 +1,10 @@
+@import "main/font.css";
+@import "main/body.css";
+@import "main/footer";
+@import "main/template.css";
+@import "main/about";
+@import "main/photo";
+
+:root{
+    color: aliceblue;
+}
